@@ -1,4 +1,5 @@
-***** Practical Task: *****
+***** Practical Task *****
+
 In this practical task, you are going to implement and test the task manager application you designed in the Software Design Task. Follow the steps below to complete the task. You do not have to provide written answers to the questions, as they are meant to guide your thinking.
 
 Setup a virtual environment for your project while considering the following points:
